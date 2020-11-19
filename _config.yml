@@ -39,17 +39,17 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-keybase_username: # your keybase user name
+github_username: jaehwanspin# your GitHub user name
+twitter_username: asdf # your Twitter handle
+linkedin_username: asdf # your LinkedIn user name
+scholar_userid: asdf # your Google Scholar ID
+orcid_id: asdf # your ORCID ID
+medium_username: asdf # your Medium username
+quora_username: asdf # your Quora username
+publons_id: asdf # your ID on Publons
+research_gate_profile: asdf # your profile on ResearchGate
+blogger_url: asdf # your blogger URL
+keybase_username: asdf # your keybase user name
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -151,7 +151,7 @@ enable_google_analytics:  false
 enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false
-enable_darkmode:          false
+enable_darkmode:          true
 show_social_icons:        false
 
 # -----------------------------------------------------------------------------
